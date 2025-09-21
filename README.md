@@ -47,7 +47,7 @@
 
 ### Книги
 - [Real World OCaml](https://dev.realworldocaml.org/toc.html)
-![Real World OCaml](https://dev.realworldocaml.org/images/rwocaml_cover.png)
+![Real World OCaml]([https://dev.realworldocaml.org/images/rwocaml_cover.png](https://m.media-amazon.com/images/I/61iU0LUP+dL._SY425_.jpg))
 
 ## Заключение
 
